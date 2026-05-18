@@ -3,7 +3,7 @@ import requests
 from typing import Dict, Optional
 from datetime import datetime
 
-PROXY = "http://194.67.91.156:3128"
+PROXY = "http://45.95.96.187:8080"
 
 class CS2API:
     def __init__(self, steam_api_key: str):
