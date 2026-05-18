@@ -2,7 +2,7 @@
 from typing import Dict, Optional
 from datetime import datetime
 
-PROXY = "socks5://127.0.0.1:10808"
+PROXY = "http://45.95.96.187:8080"
 
 class CS2API:
     def __init__(self, steam_api_key: str):
